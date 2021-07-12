@@ -6,7 +6,7 @@ The following models are used:
 - [UNET](https://arxiv.org/abs/1505.04597)
 
 Models to be used in future:
-- 
+- RESUNET
 - DEEPLABV3+
 - more...
 
