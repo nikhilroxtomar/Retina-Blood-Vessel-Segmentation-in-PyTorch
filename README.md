@@ -20,5 +20,5 @@ Original Image             |  Mask Image
 ## Contact
 For any query contact below:
 - [Facebook](https://www.facebook.com/idiotdeveloper)
-- [Instagram](https://instagram/nikhilroxtomar)
-- [Telegram](t.me/idiotdeveloper)
+- [Instagram](https://www.instagram.com/nikhilroxtomar/)
+- [Telegram](https://t.me/idiotdeveloper)
