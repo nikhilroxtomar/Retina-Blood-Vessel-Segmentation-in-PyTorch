@@ -1,0 +1,239 @@
+Dataset Size:
+Train: 80 - Valid: 20
+
+Valid loss improved from inf to 1.3303. Saving checkpoint: files/checkpoint.pth
+Epoch: 01 | Epoch Time: 0m 41s
+	Train Loss: 1.161
+	 Val. Loss: 1.330
+
+Valid loss improved from 1.3303 to 0.9355. Saving checkpoint: files/checkpoint.pth
+Epoch: 02 | Epoch Time: 0m 44s
+	Train Loss: 0.972
+	 Val. Loss: 0.936
+
+Valid loss improved from 0.9355 to 0.8783. Saving checkpoint: files/checkpoint.pth
+Epoch: 03 | Epoch Time: 0m 49s
+	Train Loss: 0.912
+	 Val. Loss: 0.878
+
+Valid loss improved from 0.8783 to 0.8261. Saving checkpoint: files/checkpoint.pth
+Epoch: 04 | Epoch Time: 0m 49s
+	Train Loss: 0.867
+	 Val. Loss: 0.826
+
+Valid loss improved from 0.8261 to 0.7989. Saving checkpoint: files/checkpoint.pth
+Epoch: 05 | Epoch Time: 0m 49s
+	Train Loss: 0.823
+	 Val. Loss: 0.799
+
+Valid loss improved from 0.7989 to 0.7665. Saving checkpoint: files/checkpoint.pth
+Epoch: 06 | Epoch Time: 0m 49s
+	Train Loss: 0.786
+	 Val. Loss: 0.767
+
+Valid loss improved from 0.7665 to 0.7454. Saving checkpoint: files/checkpoint.pth
+Epoch: 07 | Epoch Time: 0m 49s
+	Train Loss: 0.752
+	 Val. Loss: 0.745
+
+Valid loss improved from 0.7454 to 0.7187. Saving checkpoint: files/checkpoint.pth
+Epoch: 08 | Epoch Time: 0m 49s
+	Train Loss: 0.721
+	 Val. Loss: 0.719
+
+Valid loss improved from 0.7187 to 0.6768. Saving checkpoint: files/checkpoint.pth
+Epoch: 09 | Epoch Time: 0m 51s
+	Train Loss: 0.693
+	 Val. Loss: 0.677
+
+Valid loss improved from 0.6768 to 0.6513. Saving checkpoint: files/checkpoint.pth
+Epoch: 10 | Epoch Time: 0m 50s
+	Train Loss: 0.661
+	 Val. Loss: 0.651
+
+Valid loss improved from 0.6513 to 0.6459. Saving checkpoint: files/checkpoint.pth
+Epoch: 11 | Epoch Time: 0m 49s
+	Train Loss: 0.636
+	 Val. Loss: 0.646
+
+Valid loss improved from 0.6459 to 0.5990. Saving checkpoint: files/checkpoint.pth
+Epoch: 12 | Epoch Time: 0m 49s
+	Train Loss: 0.610
+	 Val. Loss: 0.599
+
+Valid loss improved from 0.5990 to 0.5929. Saving checkpoint: files/checkpoint.pth
+Epoch: 13 | Epoch Time: 0m 49s
+	Train Loss: 0.587
+	 Val. Loss: 0.593
+
+Valid loss improved from 0.5929 to 0.5624. Saving checkpoint: files/checkpoint.pth
+Epoch: 14 | Epoch Time: 0m 49s
+	Train Loss: 0.564
+	 Val. Loss: 0.562
+
+Valid loss improved from 0.5624 to 0.5507. Saving checkpoint: files/checkpoint.pth
+Epoch: 15 | Epoch Time: 0m 49s
+	Train Loss: 0.544
+	 Val. Loss: 0.551
+
+Valid loss improved from 0.5507 to 0.5234. Saving checkpoint: files/checkpoint.pth
+Epoch: 16 | Epoch Time: 0m 49s
+	Train Loss: 0.524
+	 Val. Loss: 0.523
+
+Valid loss improved from 0.5234 to 0.5167. Saving checkpoint: files/checkpoint.pth
+Epoch: 17 | Epoch Time: 0m 48s
+	Train Loss: 0.505
+	 Val. Loss: 0.517
+
+Valid loss improved from 0.5167 to 0.4985. Saving checkpoint: files/checkpoint.pth
+Epoch: 18 | Epoch Time: 0m 49s
+	Train Loss: 0.489
+	 Val. Loss: 0.498
+
+Valid loss improved from 0.4985 to 0.4890. Saving checkpoint: files/checkpoint.pth
+Epoch: 19 | Epoch Time: 0m 49s
+	Train Loss: 0.476
+	 Val. Loss: 0.489
+
+Valid loss improved from 0.4890 to 0.4737. Saving checkpoint: files/checkpoint.pth
+Epoch: 20 | Epoch Time: 0m 49s
+	Train Loss: 0.457
+	 Val. Loss: 0.474
+
+Valid loss improved from 0.4737 to 0.4663. Saving checkpoint: files/checkpoint.pth
+Epoch: 21 | Epoch Time: 0m 48s
+	Train Loss: 0.442
+	 Val. Loss: 0.466
+
+Valid loss improved from 0.4663 to 0.4614. Saving checkpoint: files/checkpoint.pth
+Epoch: 22 | Epoch Time: 0m 49s
+	Train Loss: 0.429
+	 Val. Loss: 0.461
+
+Valid loss improved from 0.4614 to 0.4494. Saving checkpoint: files/checkpoint.pth
+Epoch: 23 | Epoch Time: 0m 49s
+	Train Loss: 0.413
+	 Val. Loss: 0.449
+
+Valid loss improved from 0.4494 to 0.4430. Saving checkpoint: files/checkpoint.pth
+Epoch: 24 | Epoch Time: 0m 49s
+	Train Loss: 0.399
+	 Val. Loss: 0.443
+
+Epoch: 25 | Epoch Time: 0m 48s
+	Train Loss: 0.385
+	 Val. Loss: 0.444
+
+Valid loss improved from 0.4430 to 0.4310. Saving checkpoint: files/checkpoint.pth
+Epoch: 26 | Epoch Time: 0m 49s
+	Train Loss: 0.373
+	 Val. Loss: 0.431
+
+Valid loss improved from 0.4310 to 0.4290. Saving checkpoint: files/checkpoint.pth
+Epoch: 27 | Epoch Time: 0m 49s
+	Train Loss: 0.360
+	 Val. Loss: 0.429
+
+Valid loss improved from 0.4290 to 0.4262. Saving checkpoint: files/checkpoint.pth
+Epoch: 28 | Epoch Time: 0m 49s
+	Train Loss: 0.347
+	 Val. Loss: 0.426
+
+Valid loss improved from 0.4262 to 0.4193. Saving checkpoint: files/checkpoint.pth
+Epoch: 29 | Epoch Time: 0m 49s
+	Train Loss: 0.336
+	 Val. Loss: 0.419
+
+Valid loss improved from 0.4193 to 0.4155. Saving checkpoint: files/checkpoint.pth
+Epoch: 30 | Epoch Time: 0m 49s
+	Train Loss: 0.322
+	 Val. Loss: 0.416
+
+Epoch: 31 | Epoch Time: 0m 47s
+	Train Loss: 0.313
+	 Val. Loss: 0.417
+
+Epoch: 32 | Epoch Time: 0m 48s
+	Train Loss: 0.302
+	 Val. Loss: 0.417
+
+Valid loss improved from 0.4155 to 0.4083. Saving checkpoint: files/checkpoint.pth
+Epoch: 33 | Epoch Time: 0m 48s
+	Train Loss: 0.295
+	 Val. Loss: 0.408
+
+Epoch: 34 | Epoch Time: 0m 48s
+	Train Loss: 0.287
+	 Val. Loss: 0.412
+
+Valid loss improved from 0.4083 to 0.3939. Saving checkpoint: files/checkpoint.pth
+Epoch: 35 | Epoch Time: 0m 48s
+	Train Loss: 0.278
+	 Val. Loss: 0.394
+
+Epoch: 36 | Epoch Time: 0m 48s
+	Train Loss: 0.270
+	 Val. Loss: 0.403
+
+Valid loss improved from 0.3939 to 0.3929. Saving checkpoint: files/checkpoint.pth
+Epoch: 37 | Epoch Time: 0m 48s
+	Train Loss: 0.269
+	 Val. Loss: 0.393
+
+Epoch: 38 | Epoch Time: 0m 48s
+	Train Loss: 0.260
+	 Val. Loss: 0.399
+
+Valid loss improved from 0.3929 to 0.3903. Saving checkpoint: files/checkpoint.pth
+Epoch: 39 | Epoch Time: 0m 48s
+	Train Loss: 0.253
+	 Val. Loss: 0.390
+
+Epoch: 40 | Epoch Time: 0m 48s
+	Train Loss: 0.247
+	 Val. Loss: 0.392
+
+Valid loss improved from 0.3903 to 0.3861. Saving checkpoint: files/checkpoint.pth
+Epoch: 41 | Epoch Time: 0m 49s
+	Train Loss: 0.241
+	 Val. Loss: 0.386
+
+Epoch: 42 | Epoch Time: 0m 48s
+	Train Loss: 0.237
+	 Val. Loss: 0.386
+
+Epoch: 43 | Epoch Time: 0m 48s
+	Train Loss: 0.235
+	 Val. Loss: 0.390
+
+Epoch: 44 | Epoch Time: 0m 47s
+	Train Loss: 0.230
+	 Val. Loss: 0.389
+
+Valid loss improved from 0.3861 to 0.3849. Saving checkpoint: files/checkpoint.pth
+Epoch: 45 | Epoch Time: 0m 48s
+	Train Loss: 0.225
+	 Val. Loss: 0.385
+
+Valid loss improved from 0.3849 to 0.3826. Saving checkpoint: files/checkpoint.pth
+Epoch: 46 | Epoch Time: 0m 49s
+	Train Loss: 0.222
+	 Val. Loss: 0.383
+
+Epoch: 47 | Epoch Time: 0m 48s
+	Train Loss: 0.220
+	 Val. Loss: 0.384
+
+Epoch: 48 | Epoch Time: 0m 49s
+	Train Loss: 0.217
+	 Val. Loss: 0.389
+
+Epoch: 49 | Epoch Time: 0m 50s
+	Train Loss: 0.214
+	 Val. Loss: 0.383
+
+Valid loss improved from 0.3826 to 0.3822. Saving checkpoint: files/checkpoint.pth
+Epoch: 50 | Epoch Time: 0m 49s
+	Train Loss: 0.211
+	 Val. Loss: 0.382
