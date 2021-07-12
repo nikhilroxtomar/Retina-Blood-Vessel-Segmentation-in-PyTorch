@@ -4,7 +4,6 @@ This repository contains the code for semantic segmentation of the retina blood 
 
 The following models are used:
 - [UNET](https://arxiv.org/abs/1505.04597)
-- [RESUNET](https://arxiv.org/pdf/1711.10684.pdf)
 
 Models to be used in future:
 - 
